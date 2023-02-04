@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\bin\Debug\net6.0\LINQLab.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\bin\Debug\net6.0\LINQLab.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\bin\Debug\net6.0\LINQLab.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\bin\Debug\net6.0\LINQLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\bin\Debug\net6.0\LINQLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\refint\LINQLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\LINQLab.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\LINQLabApp\LINQLab\obj\Debug\net6.0\ref\LINQLab.dll
